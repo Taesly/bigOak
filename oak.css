@@ -1,0 +1,510 @@
+
+body {
+
+
+	width: 98%;
+	
+	
+}
+
+#acontent {
+
+	position: relative;
+	top: -140px;
+	
+
+}
+
+#wrapper {
+	margin: -20px -30px 0 -20px;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 700px;
+	
+ 	background-position: 0% 35%;
+
+
+}
+#logo {
+position: relative;
+height: 15%;
+width: 15%;
+
+transform: translate(300%, -220%);
+
+}
+
+
+
+}
+
+h1 {
+	text-align: center;
+	color: brown;
+	width: 50%;
+	background-color: blue;
+	margin: 0 auto 0 auto;
+}
+
+#about {
+	margin-top: ;
+	margin-left: 25%;
+	text-align: center;
+	width: 46%;
+	height: 500px;
+	background-color: oldlace;
+	/*border: solid 3px black;*/
+
+
+}
+
+#aboutb {
+
+	padding-left: 5px;
+	border:   3px;
+	margin: 5px 5px 5px 5px;
+	height: 500px;
+	width: 640px;
+	/*border: solid 3px black;*/
+	background-color: oldlace;
+
+}
+
+#abouth {
+	position: relative;
+	top: 15px;
+	
+	padding: 0 40px 20px 40px;
+	border-bottom: solid 2px sandybrown;
+	text-align: center;
+	width: 300px;
+	background-color: oldlace;
+	display: inline;
+	font-family: sans-serif;
+}
+
+.pcontent
+
+		{
+			
+			position: absolute;
+			padding: 5px 5px 0 8px;
+			/*border: solid black 3px;*/
+			text-align: left;
+			font-family: serif;
+			font-size: 1em;
+			line-height: 2em;
+			background-color: oldlace;
+			
+			height: 400px;
+			width: 400px;
+			margin-left: 180px;
+			margin-top: 40px;
+		}
+
+
+
+img{
+float: left;
+	/*border: solid black 3px;*/
+	z-index: 4;
+}
+
+#ipos {
+
+	position: relative;
+	margin-left: 500px;
+	top: -20px;
+	left: -40px;
+	width: 1400px;
+}
+  #wood {
+	z-index: -1;
+	
+	position: absolute;
+	
+	background-size: contain;
+	top: 650px;            
+	border: solid 1px black;  
+	width: 100.25%;
+	height: 500px;
+	bottom: 300px;
+	margin-left: -15px;
+}
+
+html {
+
+	background-color: oldlace;
+}
+
+.button1 {
+
+
+	height: 50px;
+	width: 300px;
+	background-color: #222;
+	color: white;
+	font-size: 1em;
+	font-style: bold;
+	padding-top: 4.5px;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: 700;
+	
+
+}
+
+.facebook {
+
+	position: relative;
+	
+}
+
+.fb {
+
+	display: inline;
+	width: 10%;
+	height: 10%;
+	position: relative;
+	left: 30px;
+	bottom: 6px;
+
+	
+	
+}
+
+.button1:hover {
+	
+	background-color: dodgerblue; 
+	transition: background 0.5s ease-in-out;
+}
+.button1p {
+
+
+	position: relative;
+	top: -140px;
+	margin-left: 600px;
+	
+}
+
+.button2 {
+
+
+	height: 50px;
+	width: 300px;
+	background-color: #222;
+	color: white;
+	font-size: 1.0em;
+	font-style: bold;
+	padding-top: 4.5px;
+	font-family: sans-serif;
+	text-align: center;
+	font-weight: 700;
+
+	
+}
+
+.wifi {
+
+	position: relative;
+	
+	
+}
+
+.wi {
+
+	display: inline;
+	width: 10%;
+	height: 10%;
+	position: relative;
+	left: 30px;
+	bottom: 6px;
+	
+}
+
+.button2p {
+
+
+	position: relative;
+	top: -196px;
+	margin-left: 1000px;
+	
+}
+
+.button2:hover {
+
+	background-color: orange; 
+	transition: background 0.5s ease-in-out;
+
+}
+
+.buttonss
+	{ 
+
+display: inline-block; 
+
+}
+
+.ourmenu {
+
+	border-bottom: solid 1px sandybrown;
+	text-align: center;
+	font-weight: 700;
+	font-family: Arial;
+	width: 240px;
+	padding: 7px;
+	margin: 0 44%;
+	background-color: oldlace;
+
+
+}
+
+.ourmenubox
+	{
+		position: relative;
+		align-items: center;
+		top: -150px;
+	}
+
+.turkey {
+
+	margin-left: 26%;
+}
+
+li {
+
+
+	display: inline;
+	text-decoration: none;
+	padding: 6px;
+		
+
+
+}
+
+.ourmenui{
+
+	
+	/*border:solid 4px black;*/
+	width: 1300px;
+	margin: -100px 0 0 375px;
+}
+
+a {
+
+	text-decoration: none;
+
+}
+
+.menu-content {
+
+	width: 958px;
+	height: 884px;
+	background-color: white;
+	border: solid 1px black;
+	padding: 35px 20px 35px 20px;
+	margin: 25px auto 50px auto;
+	
+
+}
+
+.col1 {
+
+	width: 464.625px;
+	height: 806px;
+	margin-right: 28.734px;
+	line-height: 20px;
+	float: left;
+	
+}
+
+.col1 strong {
+	font-style: normal;
+	font-weight: 700;
+	font-family: arial;
+	font-size: 14px;
+	text-indent: 0;
+}
+
+.col1 p {
+
+	font-size: 14px;
+	font-style: italic;
+	text-indent: 1em;
+	text-align: center;
+	padding-bottom: 25px;
+
+}
+
+.col2 {
+
+	width: 464.625px;
+	height: 806px;
+	margin-right: 28.734px;
+	line-height: 20px;
+	float: left;
+	
+	position: absolute;
+	right: 460px;
+	
+
+	
+}
+
+.col2 strong {
+	font-style: normal;
+	font-weight: 700;
+	font-family: arial;
+	font-size: 14px;
+	text-indent: 0;
+}
+
+.col2 p {
+
+	font-size: 14px;
+	font-style: italic;
+	text-indent: 1em;
+	text-align: center;
+	padding-bottom: 25px;
+
+}
+
+.gallery  {
+	background-size: cover;
+	
+	
+	padding: 0px;
+	margin-left: -8px;
+	width: 1903px;
+	height: 360px;
+
+
+	
+}
+.gallery img {
+	position: relative;
+
+	top: 35px;
+	object-fit: cover ; 
+	width: 475.5px;
+	height: 360px;
+
+}
+
+
+.img2 {
+
+	position: absolute;
+	right: 1px;
+	top: 12px;
+	width: 475.30px;
+	transform: translate(0, -5%);
+}
+
+.backgroundbottom {
+
+	background-image: url(https://bigoakcafe.com/wp-content/themes/oak/img/bottom.jpg);
+	width: 1903px;
+	min-height: 300px;
+	padding: 40px 1px 0px 0px;
+	
+	margin-top: -60px;
+	
+	overflow: hidden;
+	position: relative;
+	right: 10px;
+	top: 8px;
+}
+
+.bottomtable {
+
+
+	width: 996px;
+	height: 157px;
+	border: solid 2px dimgray;
+	margin: 50px auto 55px auto;
+
+}
+
+.bottomtleft {
+
+	width: 332px;
+	height: 157px;
+	border-right: solid 2px dimgray;
+	float: left;
+	color:;
+	
+
+}
+
+.bottomtcenter {
+
+
+	width: 332px;
+	height: 157px;
+	border-right: solid 2px dimgray;
+	float: left;
+
+	
+}
+
+.bottomtright {
+
+	width: 326px;
+	height: 157px;
+	position: absolute;
+	left: 1121px;
+	
+
+	
+	
+}
+
+.leaflogosmall {
+
+	margin-left: 49%;
+
+}
+
+h2 {
+
+	text-align: center;
+	color: white;
+	border-bottom: solid 1px dimgray;
+	padding-bottom: 10px;
+	width: 130px;
+	margin-left: 30%;
+	font-family: sans-serif;
+	font-weight: 400;
+
+}
+
+.bottomtleft p {
+
+	text-align: center;
+	color: dimgray;
+	width: 300px;
+	margin-left: 15px;
+}
+
+span {
+
+	color: white;
+}
+
+.bottomtcenter p {
+
+	text-align: center;
+	color: dimgray;
+	width: 300px;
+	margin-left: 15px;
+
+}
+
+.bottomtright p {
+
+	text-align: center;
+	color: dimgray;
+	width: 300px;
+	margin-left: 15px;
+}
